@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">City of Deerfield Beach</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Deerfield Beach, FL</string>
+    <string name="nav_header_subtitle">www.deerfield-beach.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="sightseeing">Sightseeing</string>
+    <string name="picture_gallery">Picture Gallery</string>
+    <string name="video_gallery">Video Gallery</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="dfb_history">DFB History</string>
+    <string name="dfb_alert">DFB Alert</string>
+    <string name="careers_in_dfb">Careers in DFB</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+    <string name="QuietWPark">Quiet Waters Park</string>
+    <string name="QWPAdd">401 S. Powerline Rd., Deerfield Beach, FL 33442</string>
+    <string name="DfbIPark">Deerfield Island Park</string>
+    <string name="DfbIParkAdd">1720 Deerfield Island Park, Deerfield Beach, FL 33441</string>
+    <string name="SullivanPark">Sullivan Park</string>
+    <string name="SullivanParkAdd">1633 Riverview Rd, Deerfield Beach, FL 33441</string>
+    <string name="HillsInlet">Hillsboro Inlet</string>
+    <string name="HillsInletAdd">2801, 907 Hillsboro Mile, Hillsboro Beach, FL 33062</string>
+    <string name="RailwayMuseum">South Florida Railway Museum</string>
+    <string name="RailwayMuseumAdd">1716, 1300 W Hillsboro Blvd, Deerfield Beach, FL 33442</string>
+    <string name="FishingPier">Deerfield Beach International Fishing Pier</string>
+    <string name="FishingPierAdd">200 NE 21st Ave, Deerfield Beach, FL 33441</string>
+    <string name="TheBeach">The Beach</string>
+    <string name="TheBeachAdd">255 NE 21st Ave, Deerfield Beach, FL 33441</string>
+    <string name="visit_us">Visit us @</string>
+
+
+</resources>

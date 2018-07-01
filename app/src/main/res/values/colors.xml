@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#15445A</color>
+    <color name="colorPrimaryDark">#15445A</color>
+    <color name="colorAccent">#345D5F</color>
+
+
+    <!-- Background color for the colors category -->
+    <color name="category_sightseeing">#10424D</color>
+
+    <!-- Background color for the colors category -->
+    <color name="category_restaurants">#05ADA3</color>
+
+
+</resources>
